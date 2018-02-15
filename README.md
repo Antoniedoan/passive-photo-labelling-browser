@@ -21,7 +21,8 @@ Current similar projects (also in Python):
 - labelme: https://github.com/wkentaro/labelme
 
 Others worth checking out:
-https://cvhci.anthropomatik.kit.edu/~baeuml/projects/a-universal-labeling-tool-for-computer-vision-sloth/
-https://alpslabel.wordpress.com/2017/01/26/alt/
-http://www.cvlibs.net/software/liblabel/
-https://www.labelbox.io
+- https://cvhci.anthropomatik.kit.edu/~baeuml/projects/a-universal-labeling-tool-for-computer-vision-sloth/
+- https://alpslabel.wordpress.com/2017/01/26/alt/
+- http://www.cvlibs.net/software/liblabel/
+- https://www.labelbox.io 
+- https://www.youtube.com/watch?v=4eIBisqx9_g
