@@ -15,3 +15,14 @@ https://stackoverflow.com/questions/23901168/how-do-i-insert-a-jpeg-image-into-a
 
 How to add checkboxes in Tkinter
 https://www.python-course.eu/tkinter_checkboxes.php
+
+Current similar projects (also in Python):
+- labelImg: https://github.com/tzutalin/labelImg
+- labelme: https://github.com/wkentaro/labelme
+
+Others worth checking out:
+- https://cvhci.anthropomatik.kit.edu/~baeuml/projects/a-universal-labeling-tool-for-computer-vision-sloth/
+- https://alpslabel.wordpress.com/2017/01/26/alt/
+- http://www.cvlibs.net/software/liblabel/
+- https://www.labelbox.io 
+- https://www.youtube.com/watch?v=4eIBisqx9_g
